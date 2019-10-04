@@ -22,7 +22,7 @@
         "type": "app",
         "appId": "TRAINING",
         "path": "#",
-        "manifestURL": "http://192.168.0.165:8888/manifest",
+        "manifestURL": "https://my-json-server.typicode.com/WyattHoutz/demo/manifest",
         "adjacentAppId": "PRECORWORKOUTS",
         "beforeAdjacent": true
       }
