@@ -1,15 +1,35 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
   "trainers": [
     {
       "id": 1,
       "name": "Wyatt Houtz",
       "description": "I like to train you up"
-    }
+    },
+    {
+      "id": 2,
+      "name": "Wyatt Houtz",
+      "description": "I like to train you up"
+    },
+    {
+      "id": 3,
+      "name": "Wyatt Houtz",
+      "description": "I like to train you up"
+    },
+    {
+      "id": 4,
+      "name": "Wyatt Houtz",
+      "description": "I like to train you up"
+    },
+    {
+      "id": 5,
+      "name": "Wyatt Houtz",
+      "description": "I like to train you up"
+    },
+    {
+      "id": 6,
+      "name": "Wyatt Houtz",
+      "description": "I like to train you up"
+    },
   ],
   "profile": {
     "name": "WyattHoutz"
