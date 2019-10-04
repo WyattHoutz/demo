@@ -6,6 +6,13 @@
       "author": "typicode"
     }
   ],
+  "trainers": [
+    {
+      "id": 1,
+      "name": "Wyatt Houtz",
+      "description": "I like to train you up"
+    }
+  ],
   "comments": [
     {
       "id": 1,
@@ -32,13 +39,5 @@
     "navBar": "TRAINING",
     "title": "TRAINING",
     "icon": "http://52.202.210.54/trainingtile.png"
-  },
-  "trainers": [
-    {
-      "id": 1,
-      "name": "Wyatt Houtz",
-      "description": "I like to train you up"
-    }
-  ]
-
+  }
 }
