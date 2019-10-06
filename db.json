@@ -8,7 +8,8 @@
         "appId": "WyattHoutz",
         "path": "#/trainer/Wyatt Houtz",
         "manifestURL": "http://192.168.0.165:8888/manifest",
-        "adjacentAppId": "PRECORWORKOUTS"
+        "adjacentAppId": "PRECORWORKOUTS",
+        "beforeAdjacent": true
       },
       {
         "type": "app",
@@ -16,7 +17,8 @@
         "path": "#/trainer/Erica",
         "manifestURL": "http://192.168.0.165:8888/manifest/1",
         "adjacentAppId": "PRECORWORKOUTS",
-        "beforeAdjacent": true
+        "beforeAdjacent": true,
+        "id": 1
       },
       {
         "type": "app",
@@ -24,7 +26,8 @@
         "path": "#/trainer/Brad",
         "manifestURL": "http://192.168.0.165:8888/manifest/2",
         "adjacentAppId": "PRECORWORKOUTS",
-        "beforeAdjacent": true
+        "beforeAdjacent": true,
+        "id": 2
       },
       {
         "type": "app",
@@ -32,7 +35,8 @@
         "path": "#/trainer/Greg",
         "manifestURL": "http://192.168.0.165:8888/manifest/3",
         "adjacentAppId": "PRECORWORKOUTS",
-        "beforeAdjacent": true
+        "beforeAdjacent": true,
+        "id": 3
       },
       {
         "type": "app",
@@ -40,7 +44,8 @@
         "path": "#/trainer/John",
         "manifestURL": "http://192.168.0.165:8888/manifest/4",
         "adjacentAppId": "PRECORWORKOUTS",
-        "beforeAdjacent": true
+        "beforeAdjacent": true,
+        "id": 4
       }
     ]
   }
