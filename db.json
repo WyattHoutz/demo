@@ -35,14 +35,78 @@
     "name": "WyattHoutz"
   },
   "config": {
-    "config": [
+     "config": [
       {
+        "id": 0,
         "type": "app",
-        "appId": "TRAINING",
-        "path": "#",
-        "manifestURL": "https://my-json-server.typicode.com/WyattHoutz/demo/manifest",
+        "appId": "Wyatt Houtz",
+        "path": "#/trainer/Wyatt Houtz",
+        "manifestURL": "http://192.168.0.165:8888/manifest",
         "adjacentAppId": "PRECORWORKOUTS",
         "beforeAdjacent": true
+      },
+      {
+        "type": "app",
+        "appId": "Erica",
+        "path": "#/trainer/Erica",
+        "manifestURL": "http://192.168.0.165:8888/manifest/1",
+        "adjacentAppId": "PRECORWORKOUTS",
+        "beforeAdjacent": true,
+        "id": 1
+      },
+      {
+        "type": "app",
+        "appId": "Brad",
+        "path": "#/trainer/Brad",
+        "manifestURL": "http://192.168.0.165:8888/manifest/2",
+        "adjacentAppId": "PRECORWORKOUTS",
+        "beforeAdjacent": true,
+        "id": 2
+      },
+      {
+        "type": "app",
+        "appId": "Greg",
+        "path": "#/trainer/Greg",
+        "manifestURL": "http://192.168.0.165:8888/manifest/3",
+        "adjacentAppId": "PRECORWORKOUTS",
+        "beforeAdjacent": true,
+        "id": 3
+      },
+      {
+        "type": "app",
+        "appId": "John",
+        "path": "#/trainer/John",
+        "manifestURL": "http://192.168.0.165:8888/manifest/4",
+        "adjacentAppId": "PRECORWORKOUTS",
+        "beforeAdjacent": true,
+        "id": 4
+      },
+      {
+        "type": "app",
+        "appId": "Kim",
+        "path": "#/trainer/Kim",
+        "manifestURL": "http://192.168.0.165:8888/manifest/5",
+        "adjacentAppId": "PRECORWORKOUTS",
+        "beforeAdjacent": true,
+        "id": 5
+      },
+      {
+        "type": "app",
+        "appId": "Linda",
+        "path": "#/trainer/Linda",
+        "manifestURL": "http://192.168.0.165:8888/manifest/6",
+        "adjacentAppId": "PRECORWORKOUTS",
+        "beforeAdjacent": true,
+        "id": 6
+      },
+      {
+        "type": "app",
+        "appId": "Wyatt Houtz",
+        "path": "#/trainer/Wyatt Houtz",
+        "manifestURL": "http://192.168.0.165:8888/manifest/7",
+        "adjacentAppId": "PRECORWORKOUTS",
+        "beforeAdjacent": true,
+        "id": 7
       }
     ]
   },
