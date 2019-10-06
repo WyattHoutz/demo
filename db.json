@@ -2,117 +2,131 @@
   "trainers": [
     {
       "id": 1,
-      "name": "Wyatt Houtz",
-      "description": "I like to train you up"
+      "name": "Erica",
+      "description": "precor trainier 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "profileImg": "http://192.168.0.165:3456/static/images/SwitcherPanels_Erica.png",
+      "youtubeId": "",
+      "playlist": "1234567890"
     },
     {
       "id": 2,
-      "name": "Wyatt Houtz",
-      "description": "I like to train you up"
+      "name": "Brad",
+      "description": "precor trainier 2. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "profileImg": "http://192.168.0.165:3456/static/images/SwitcherPanels_Brad.png",
+      "youtubeId": ""
     },
     {
       "id": 3,
-      "name": "Wyatt Houtz",
-      "description": "I like to train you up"
+      "name": "Greg",
+      "description": "precor trainier 3. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "profileImg": "http://192.168.0.165:3456/static/images/SwitcherPanels_Greg.png",
+      "youtubeId": ""
     },
     {
       "id": 4,
-      "name": "Wyatt Houtz",
-      "description": "I like to train you up"
-    },
+      "name": "John",
+      "description": "precor trainier 4. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "profileImg": "http://192.168.0.165:3456/static/images/SwitcherPanels_John.png",
+      "youtubeId": ""
+    }
+  ],
+  "posts": [
     {
-      "id": 5,
-      "name": "Wyatt Houtz",
-      "description": "I like to train you up"
-    },
+      "id": 1,
+      "title": "json-server",
+      "author": "wyatt houtz test 7"
+    }
+  ],
+  "comments": [
     {
-      "id": 6,
-      "name": "Wyatt Houtz",
-      "description": "I like to train you up"
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
     }
   ],
   "profile": {
-    "name": "WyattHoutz"
+    "name": "typicode"
   },
   "config": {
-     "config": [
-      {
-        "id": 0,
-        "type": "app",
-        "appId": "Wyatt Houtz",
-        "path": "#/trainer/Wyatt Houtz",
-        "manifestURL": "http://192.168.0.165:8888/manifest",
-        "adjacentAppId": "PRECORWORKOUTS",
-        "beforeAdjacent": true
-      },
-      {
-        "type": "app",
-        "appId": "Erica",
-        "path": "#/trainer/Erica",
-        "manifestURL": "http://192.168.0.165:8888/manifest/1",
-        "adjacentAppId": "PRECORWORKOUTS",
-        "beforeAdjacent": true,
-        "id": 1
-      },
-      {
-        "type": "app",
-        "appId": "Brad",
-        "path": "#/trainer/Brad",
-        "manifestURL": "http://192.168.0.165:8888/manifest/2",
-        "adjacentAppId": "PRECORWORKOUTS",
-        "beforeAdjacent": true,
-        "id": 2
-      },
-      {
-        "type": "app",
-        "appId": "Greg",
-        "path": "#/trainer/Greg",
-        "manifestURL": "http://192.168.0.165:8888/manifest/3",
-        "adjacentAppId": "PRECORWORKOUTS",
-        "beforeAdjacent": true,
-        "id": 3
-      },
-      {
-        "type": "app",
-        "appId": "John",
-        "path": "#/trainer/John",
-        "manifestURL": "http://192.168.0.165:8888/manifest/4",
-        "adjacentAppId": "PRECORWORKOUTS",
-        "beforeAdjacent": true,
-        "id": 4
-      },
-      {
-        "type": "app",
-        "appId": "Kim",
-        "path": "#/trainer/Kim",
-        "manifestURL": "http://192.168.0.165:8888/manifest/5",
-        "adjacentAppId": "PRECORWORKOUTS",
-        "beforeAdjacent": true,
-        "id": 5
-      },
-      {
-        "type": "app",
-        "appId": "Linda",
-        "path": "#/trainer/Linda",
-        "manifestURL": "http://192.168.0.165:8888/manifest/6",
-        "adjacentAppId": "PRECORWORKOUTS",
-        "beforeAdjacent": true,
-        "id": 6
-      },
-      {
-        "type": "app",
-        "appId": "Wyatt Houtz",
-        "path": "#/trainer/Wyatt Houtz",
-        "manifestURL": "http://192.168.0.165:8888/manifest/7",
-        "adjacentAppId": "PRECORWORKOUTS",
-        "beforeAdjacent": true,
-        "id": 7
-      }
-    ]
-  },
-  "manifest": {
-    "navBar": "TRAINING",
-    "title": "TRAINING",
-    "icon": "http://52.202.210.54/trainingtile.png"
-  }
+    "config":
+      [
+        {
+          "id": 0,
+          "type": "app",
+          "appId": "Wyatt Houtz",
+          "path": "#/trainer/Wyatt Houtz",
+          "manifestURL": "http://192.168.0.165:8888/manifest",
+          "adjacentAppId": "PRECORWORKOUTS",
+          "beforeAdjacent": true
+        },
+        {
+          "type": "app",
+          "appId": "Erica",
+          "path": "#/trainer/Erica",
+          "manifestURL": "http://192.168.0.165:8888/manifest/1",
+          "adjacentAppId": "PRECORWORKOUTS",
+          "beforeAdjacent": true,
+          "id": 1
+        },
+        {
+          "type": "app",
+          "appId": "Brad",
+          "path": "#/trainer/Brad",
+          "manifestURL": "http://192.168.0.165:8888/manifest/2",
+          "adjacentAppId": "PRECORWORKOUTS",
+          "beforeAdjacent": true,
+          "id": 2
+        },
+        {
+          "type": "app",
+          "appId": "Greg",
+          "path": "#/trainer/Greg",
+          "manifestURL": "http://192.168.0.165:8888/manifest/3",
+          "adjacentAppId": "PRECORWORKOUTS",
+          "beforeAdjacent": true,
+          "id": 3
+        },
+        {
+          "type": "app",
+          "appId": "John",
+          "path": "#/trainer/John",
+          "manifestURL": "http://192.168.0.165:8888/manifest/4",
+          "adjacentAppId": "PRECORWORKOUTS",
+          "beforeAdjacent": true,
+          "id": 4
+        }
+      ]
+    },
+    "manifest": [
+    {
+      "id": 0,
+      "navBar": "TRAINING",
+      "title": "TRAINING",
+      "icon": "http://52.202.210.54/trainingtile.png"
+    },
+    {
+      "navBar": "Erica",
+      "title": "Erica",
+      "icon": "http://192.168.0.165:3456/static/images/SwitcherPanels_Erica.png",
+      "id": 1
+    },
+    {
+      "navBar": "Brad",
+      "title": "Brad",
+      "icon": "http://192.168.0.165:3456/static/images/SwitcherPanels_Brad.png",
+      "id": 2
+    },
+    {
+      "navBar": "Greg",
+      "title": "Greg",
+      "icon": "http://192.168.0.165:3456/static/images/SwitcherPanels_Greg.png",
+      "id": 3
+    },
+    {
+      "navBar": "John",
+      "title": "John",
+      "icon": "http://192.168.0.165:3456/static/images/SwitcherPanels_John.png",
+      "id": 4
+    }
+  ]
 }
