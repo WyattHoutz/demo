@@ -2,51 +2,51 @@
   "config": {
     "config":
     [
-      {
-        "id": 0,
-        "type": "app",
-        "appId": "WyattHoutz",
-        "path": "#/trainer/Wyatt Houtz",
-        "manifestURL": "http://192.168.0.165:8888/manifest",
-        "adjacentAppId": "PRECORWORKOUTS",
-        "beforeAdjacent": true
-      },
-      {
-        "type": "app",
-        "appId": "Erica",
-        "path": "#/trainer/Erica",
-        "manifestURL": "http://192.168.0.165:8888/manifest/1",
-        "adjacentAppId": "PRECORWORKOUTS",
-        "beforeAdjacent": true,
-        "id": 1
-      },
-      {
-        "type": "app",
-        "appId": "Brad",
-        "path": "#/trainer/Brad",
-        "manifestURL": "http://192.168.0.165:8888/manifest/2",
-        "adjacentAppId": "PRECORWORKOUTS",
-        "beforeAdjacent": true,
-        "id": 2
-      },
-      {
-        "type": "app",
-        "appId": "Greg",
-        "path": "#/trainer/Greg",
-        "manifestURL": "http://192.168.0.165:8888/manifest/3",
-        "adjacentAppId": "PRECORWORKOUTS",
-        "beforeAdjacent": true,
-        "id": 3
-      },
-      {
-        "type": "app",
-        "appId": "John",
-        "path": "#/trainer/John",
-        "manifestURL": "http://192.168.0.165:8888/manifest/4",
-        "adjacentAppId": "PRECORWORKOUTS",
-        "beforeAdjacent": true,
-        "id": 4
-      }
+        {
+          "type": "app",
+          "appId": "TRAINER1",
+          "path": "#/trainer/1",
+          "manifestURL": "http://192.168.0.165:8890/manifest/1",
+          "adjacentAppId": "PRECORWORKOUTS",
+          "beforeAdjacent": true,
+          "id": 1
+        },
+        {
+          "type": "app",
+          "appId": "TRAINER2",
+          "path": "#/trainer/2",
+          "manifestURL": "http://192.168.0.165:8890/manifest/2",
+          "adjacentAppId": "PRECORWORKOUTS",
+          "beforeAdjacent": true,
+          "id": 2
+        },
+        {
+          "type": "app",
+          "appId": "TRAINER3",
+          "path": "#/trainer/3",
+          "manifestURL": "http://192.168.0.165:8890/manifest/3",
+          "adjacentAppId": "PRECORWORKOUTS",
+          "beforeAdjacent": true,
+          "id": 3
+        },
+        {
+          "type": "app",
+          "appId": "TRAINER4",
+          "path": "#/trainer/4",
+          "manifestURL": "http://192.168.0.165:8890/manifest/4",
+          "adjacentAppId": "PRECORWORKOUTS",
+          "beforeAdjacent": true,
+          "id": 4
+        },
+        {
+          "type": "app",
+          "appId": "TRAINER5",
+          "path": "#/trainer/5",
+          "manifestURL": "http://192.168.0.165:8890/manifest/5",
+          "adjacentAppId": "PRECORWORKOUTS",
+          "beforeAdjacent": true,
+          "id": 5
+        }
     ]
   }
 }
